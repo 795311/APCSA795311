@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Pumpkin
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pumpkin\ here.\r\n\r\n\ @author\ (Justin\ Mills)\r\n\ @version\ (8/23/19)\r\n
+comment1.params=r\ id
+comment1.target=Pumpkin(double,\ int)
+comment2.params=
+comment2.target=double\ getRadius()
+numComments=3

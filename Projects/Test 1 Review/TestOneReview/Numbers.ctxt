@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Numbers
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Problem3\ here.\r\n\r\n\ @author\ (Justin\ Mills)\r\n\ @version\ (9/16/19)\r\n
+comment1.params=x\ y
+comment1.target=int\ multiply(int,\ int)
+numComments=2

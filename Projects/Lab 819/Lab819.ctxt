@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Lab819
+comment0.text=\r\n\ Lab\ 819.\r\n\r\n\ @author\ (Justin\ Mills)\r\n\ @version\ (8/19)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a\ b
+comment2.target=int\ addEmUp(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ mult(int,\ int)
+comment4.params=a\ b
+comment4.target=int\ divide(int,\ int)
+numComments=5
