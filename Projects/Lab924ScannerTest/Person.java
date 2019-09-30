@@ -5,11 +5,10 @@
  * @author (Justin Mills)
  * @version (9/24/19)
  */
-public class Person extends ScannerTest
-{
+public class Person {
     // instance variables - replace the example below with your own
-    public String fName, mName, lName;
-    public int space;
+    private String fName, mName, lName;
+    private int space;
 
     /**
      * Constructor for objects of class Person
@@ -25,8 +24,7 @@ public class Person extends ScannerTest
      * @param  y  a sample parameter for a method
      * @return    the sum of x and y
      */
-    public void  parseName(String fullName)
-    {
+    public void  parseName(String fullName){
         int space = fullName.indexOf(" ");
         int secondspace = fullName.lastIndexOf(" ");
         int comma = fullName.indexOf(",");
@@ -48,5 +46,10 @@ public class Person extends ScannerTest
          fName = fullName.substring(comma+2, secondspace);
          mName = fullName.substring(secondspace , fullName.length());
         }
+    }
+    
+    
+    public String toString(){
+        return fName + " " + mName + " " + lName;
     }
 }
